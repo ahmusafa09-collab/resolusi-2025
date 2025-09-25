@@ -1,0 +1,4 @@
+fitur-1:
+-membuat tampilan dorm login dan register
+- menambahkan validasi untuk tiap-tiap input didalam form
+- menambahkan dengan fungsionalitas untuk tiap-tiap form
