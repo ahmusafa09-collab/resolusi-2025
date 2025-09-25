@@ -2,3 +2,4 @@ plan-1 resolusiku:
 1. bangun lebuh awal, siapin kopi, berdoa dan mulai belajar pemrograman
 2. catat tiap materi yang di dapatkan lalu dipraktikan, entah tulis ulang code atau buat projrct latihan
 3. beribadah jangan di tinggalkan, karena usaha tanpa doa = sombong
+4. tidur yang cukup jangan bergadang
